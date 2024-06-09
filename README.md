@@ -1,7 +1,7 @@
 ![logo](/images/hackersbot.png)
 ___
 
-# HackersBot
+# HackersBot Beta
 ## A discord bot for pentesters
 
 **HackersBot** is a versatile and powerful Discord bot designed specifically for penetration testers, ethical hackers, and cybersecurity enthusiasts. This bot provides a wide range of reverse shell commands in various programming languages and tools, making it an indispensable assistant for conducting security assessments and penetration testing activities.
@@ -70,6 +70,20 @@ Awesome right? 🥳
 
 ### Menu Usage
 Move through the menu to locate all shells available on *hackersbot* by clicking the arrows _left_ or _right_.
+
+---
+
+## Roadmap
+
+![Roadmap](https://github.com/Papadope/Hackersbot_Discord/blob/main/images/roadmap.png)
+
+### Planned Features
+
+- **Bind Shells**: Implementing various bind shell techniques for enhanced connectivity.
+- **MSFVenom Commands**: Adding a comprehensive set of msfvenom commands for payload generation.
+- **HoaxShell**: Integrating HoaxShell for better shell management and interaction.
+- **Shell Specifics**: Including specific commands and scripts for different shells like sh, bash, etc.
+- **Encoding**: Providing tools for encoding and decoding data in URL, base64, and other formats.
 
 ---
 
