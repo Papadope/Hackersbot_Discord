@@ -75,8 +75,6 @@ Move through the menu to locate all shells available on *hackersbot* by clicking
 
 ## Roadmap
 
-![Roadmap](https://github.com/Papadope/Hackersbot_Discord/blob/main/images/roadmap.png)
-
 ### Planned Features
 
 - **Bind Shells**: Implementing various bind shell techniques for enhanced connectivity.
