@@ -6,7 +6,7 @@ ___
 
 **HackersBot** is a versatile and powerful Discord bot designed specifically for penetration testers, ethical hackers, and cybersecurity enthusiasts. This bot provides a wide range of reverse shell commands in various programming languages and tools, making it an indispensable assistant for conducting security assessments and penetration testing activities.
 
-Finding an easy, quick reverse shell without leaving your discord server seems great, in my opinion. That's why by typing a single command in **hackersbot** you can have a _copy-paste_ ready reverse shell with your IP included!
+Finding an easy, quick reverse shell without leaving your discord server seems great, in my opinion. That's why by typing a single command in **hackersbot** you can have a _copy-paste_ ready reverse shell with your IP and port of choice included!
 
 Awesome right? 🥳
 
@@ -44,6 +44,10 @@ Awesome right? 🥳
     !java 127.0.0.0 1111
     ```
 
+## Invite
+### Invite *hackersbot* to your server
+
+[![HackersBot](https://example.com/path-to-your-image.png)](https://hackersbot.io/)
 
 ## Usage
 
@@ -54,6 +58,14 @@ Awesome right? 🥳
 
 ## Menu Options
 
+![logo](/images/menu1.png) ![logo](/images/menu2.png)
+
+<p float="left">
+  <img src="https://github.com/Papadope/Hackersbot_Discord/blob/main/images/menu1.png" alt="Menu Option 1" width="45%" />
+  <img src="https://github.com/Papadope/Hackersbot_Discord/blob/main/images/menu2.png" alt="Menu Option 2" width="45%" />
+  <img src="https://github.com/Papadope/Hackersbot_Discord/blob/main/images/menu3.png" alt="Menu Option 2" width="45%" />
+  <img src="https://github.com/Papadope/Hackersbot_Discord/blob/main/images/menu4.png" alt="Menu Option 2" width="45%" />
+</p>
 
 ## Bugs and Errors
 
