@@ -63,7 +63,7 @@ Awesome right? 🥳
 </p>
 
 ### Menu Usage
-Move through the menu by clicking the arrows _left_ or _right_.
+Move through the menu to locate all shells available on *hackersbot* by clicking the arrows _left_ or _right_.
 
 ---
 
