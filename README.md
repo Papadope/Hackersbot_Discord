@@ -62,6 +62,9 @@ Awesome right? 🥳
   <img src="https://github.com/Papadope/Hackersbot_Discord/blob/main/images/menu1.png" alt="Menu Option 1" width="50%" />
 </p>
 
+### Menu Usage
+Move through the menu by clicking the arrows _left_ or _right_.
+
 ## Bugs and Errors
 
 If you encounter any bugs or errors, please contact me at [hackersbot@papadope.net](mailto:hackersbot@papadope.net).
