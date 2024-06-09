@@ -2,7 +2,7 @@
 ___
 
 # HackersBot
-## A simple discord bot for pentesters
+## A discord bot for pentesters
 
 **HackersBot** is a versatile and powerful Discord bot designed specifically for penetration testers, ethical hackers, and cybersecurity enthusiasts. This bot provides a wide range of reverse shell commands in various programming languages and tools, making it an indispensable assistant for conducting security assessments and penetration testing activities.
 
