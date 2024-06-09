@@ -58,13 +58,8 @@ Awesome right? 🥳
 
 ## Menu Options
 
-![logo](/images/menu1.png) ![logo](/images/menu2.png)
-
 <p float="left">
-  <img src="https://github.com/Papadope/Hackersbot_Discord/blob/main/images/menu1.png" alt="Menu Option 1" width="45%" />
-  <img src="https://github.com/Papadope/Hackersbot_Discord/blob/main/images/menu2.png" alt="Menu Option 2" width="45%" />
-  <img src="https://github.com/Papadope/Hackersbot_Discord/blob/main/images/menu3.png" alt="Menu Option 2" width="45%" />
-  <img src="https://github.com/Papadope/Hackersbot_Discord/blob/main/images/menu4.png" alt="Menu Option 2" width="45%" />
+  <img src="https://github.com/Papadope/Hackersbot_Discord/blob/main/images/menu1.png" alt="Menu Option 1" width="50%" />
 </p>
 
 ## Bugs and Errors
