@@ -65,6 +65,8 @@ Awesome right? 🥳
 ### Menu Usage
 Move through the menu by clicking the arrows _left_ or _right_.
 
+---
+
 ## Bugs and Errors
 
 If you encounter any bugs or errors, please contact me at [hackersbot@papadope.net](mailto:hackersbot@papadope.net).
