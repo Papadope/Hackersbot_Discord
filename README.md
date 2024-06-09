@@ -47,7 +47,7 @@ Awesome right? 🥳
 ## Invite
 ### Invite *hackersbot* to your server
 
-[![HackersBot](https://example.com/path-to-your-image.png)](https://hackersbot.io/)
+[![HackersBot](https://github.com/Papadope/Hackersbot_Discord/blob/main/images/website.png)](https://hackersbot.io/)
 
 ## Usage
 
