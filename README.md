@@ -47,9 +47,11 @@ Awesome right? 🥳
 ## Invite
 ### Invite *hackersbot* to your server by clicking this image
 
-<a href="https://hackersbot.io/" target="_blank">
-    <img src="https://github.com/Papadope/Hackersbot_Discord/blob/main/images/website.png" alt="HackersBot" width=50% />
-</a>
+<div style="text-align: center;">
+    <a href="https://hackersbot.io/">
+        <img src="https://github.com/Papadope/Hackersbot_Discord/blob/main/images/website.png" alt="HackersBot" width="50%" />
+    </a>
+</div>
 
 ## Usage
 
@@ -60,9 +62,11 @@ Awesome right? 🥳
 
 ## Menu Options
 
-<p float="left">
-  <img src="https://github.com/Papadope/Hackersbot_Discord/blob/main/images/menu1.png" alt="Menu Option 1" width="50%" />
-</p>
+<div style="text-align: center;">
+    <p float="left">
+        <img src="https://github.com/Papadope/Hackersbot_Discord/blob/main/images/menu1.png" alt="Menu Option 1" width="50%" />
+    </p>
+</div>
 
 ### Menu Usage
 Move through the menu to locate all shells available on *hackersbot* by clicking the arrows _left_ or _right_.
