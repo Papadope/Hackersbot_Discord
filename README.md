@@ -45,7 +45,7 @@ Awesome right? 🥳
     ```
 
 ## Invite
-### Invite *hackersbot* to your server
+### Invite *hackersbot* to your server by clicking this image
 
 [![HackersBot](https://github.com/Papadope/Hackersbot_Discord/blob/main/images/website.png)](https://hackersbot.io/)
 
