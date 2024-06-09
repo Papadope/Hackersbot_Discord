@@ -1,50 +1,64 @@
 ![logo](/images/hackersbot.png)
 ___
 
-# hackersbot
+# HackersBot
 ## A simple discord bot for pentesters
 
-Hello everyone. I created the **hackersbot** discord bot because why not. I like experimenting with stuff and because I use **Discord** a **LOT** I 
-wanted to make something that I could find really useful. The idea started when I was typing commands that I use in terminal, inside Discord chat. If 
-you use it just like me you are probably going to find **hackersbot** really useful. 
+**HackersBot** is a versatile and powerful Discord bot designed specifically for penetration testers, ethical hackers, and cybersecurity enthusiasts. This bot provides a wide range of reverse shell commands in various programming languages and tools, making it an indispensable assistant for conducting security assessments and penetration testing activities.
 
-Finding an easy, quick reverse shell without leaving your discord server seems great, in my opinion. That's why by typing a single command in 
-**hackersbot** you can have a _copy-paste_ ready reverse shell with your IP included!
+Finding an easy, quick reverse shell without leaving your discord server seems great, in my opinion. That's why by typing a single command in **hackersbot** you can have a _copy-paste_ ready reverse shell with your IP included!
 
 Awesome right? 🥳
 
+## Key Features
+
+1. **Extensive Reverse Shell Commands**:
+    - **Bash, C, Curl, Haskell, Java, Netcat, Perl, PHP, Powershell, Python, Rustcat, Ruby, Xterm**: Supports multiple reverse shell commands for these languages and tools.
+    - **Socat, Node.js, JavaScript, Groovy, Telnet, Zsh, Lua, Go, Vlang, Awk, Dart, Crystal**: Provides specialized reverse shell commands for these additional tools and languages.
+
+2. **Interactive Command Selection**:
+    - Users can interactively select reverse shell commands via a paginated menu, ensuring quick and easy access to the required commands.
+
+3. **User-friendly Interface**:
+    - Clear and concise instructions and command outputs, optimized for both beginners and experienced users in the cybersecurity field.
+
+4. **Custom Emojis**:
+    - Utilizes custom emojis to make command selection more intuitive and visually appealing.
+
 ***
 
-## How to install
+## Example Commands
 
-1. First click on the link and add it on your server.
+- **PHP Reverse Shell**:
+    ```sh
+    !php 127.0.0.0 1111
+    ```
 
-[Click here](https://discord.com/oauth2/authorize?client_id=777931852043649065&scope=bot "hackersbot")
+- **Python Reverse Shell**:
+    ```sh
+    !python 127.0.0.0 1111
+    ```
 
-***
+- **Java Reverse Shell**:
+    ```sh
+    !java 127.0.0.0 1111
+    ```
 
-## How to use
 
-1. Execute `!menu` and have fun 🚀
+## Usage
 
-As you can see, you have many options already _and much more to come_.
+1. **Add HackersBot to Your Server**: Invite HackersBot to your Discord server using the provided invite link.
+2. **Interactive Menu**: Type `!menu` to access the interactive menu for reverse shell commands.
+3. **Execute Commands**: Use the specific command syntax to generate reverse shells tailored to your requirements.
 
-![menu](/images/bot.png)
 
-2. Choose the way it suits you and simply enter your IP after the menu option to get a **copy-paste** ready  Reverse Shell.
+## Menu Options
 
-## Useful Examples
 
-* !php 127.0.0.0
-* !python 127.0.0.0
-* !java 127.0.0.0
+## Bugs and Errors
 
-## Useful Information
+If you encounter any bugs or errors, please contact me at [hackersbot@papadope.net](mailto:hackersbot@papadope.net).
 
-I am adding this section here to honor all known sources I used to gether information about Reverse Shells.
+---
 
-[Pentestmonkey](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet "pentestmonkey")
-
-Thank you very much for using the bot.
-Keep haxing! 🚀
-# hackersbot
+Happy hacking!🚀
