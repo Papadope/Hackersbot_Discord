@@ -47,9 +47,7 @@ Awesome right? 🥳
 ## Invite
 ### Invite *hackersbot* to your server by clicking this image
 
-<a href="https://hackersbot.io/" target="_blank">
-    <img src="https://github.com/Papadope/Hackersbot_Discord/blob/main/images/website.png" alt="HackersBot" width="50%" />
-</a>
+[![HackersBot](https://github.com/Papadope/Hackersbot_Discord/blob/main/images/website.png)](https://hackersbot.io/){:target="_blank" rel="noopener"}
 
 ## Usage
 
